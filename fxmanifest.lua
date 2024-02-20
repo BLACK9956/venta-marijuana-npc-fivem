@@ -1,7 +1,7 @@
 fx_version 'cerulean'
 game 'gta5'
 
-author 'TuNombre'
+author 'BLACK133'
 description 'Script para que todos los NPCs vendan marihuana en FiveM'
 version '1.0'
 
